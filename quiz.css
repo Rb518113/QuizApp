@@ -9,7 +9,7 @@ body{
     padding:10px 50px 50px 50px;
     border-radius: 50px; 
     border: 2px solid white;
-   box-shadow: 10px 15px 5px gray;
+   box-shadow: 10px 15px 5px  gray;
 }
 
 .grid h1{
@@ -29,8 +29,8 @@ color:red;
 }
 
 .buttons{
-
     margin-top: 30px;
+
 }
 
 #btn0 ,#btn1, #btn2, #btn3{
@@ -42,6 +42,24 @@ color:red;
     border-radius: 50px;
     margin:10px 40px 10px 0px;
     padding:10px 10px;
+    
+
+}
+
+#btn0:focus,#btn1:focus, #btn2:focus, #btn3:focus{
+outline:0;
+
+}
+
+#btn0:hover,#btn1:hover, #btn2:hover, #btn3:hover{
+    cursor: pointer;
+    background-color: red;
+    
+    }
+
+#progress{
+    color: white;
+    font-size: 18px;
 }
 
 
