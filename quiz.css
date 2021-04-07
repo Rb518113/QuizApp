@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+.grid{
+    width:600px;
+    height: 500px;
+    margin:0 auto;
+    padding:10px 50px 50px 50px;
+    border-radius: 50px; 
+    border: 2px solid white;
+   box-shadow: 10px 15px 5px gray;
+}
+
+.grid h1{
+    font-family: sans-serif;
+    background-color: aliceblue;
+    font-size: 60px;
+    text-align: center;
+    color: black;
+    padding:2px 0px;
+    border-radius: 50px;
+
+
+}
+
+
+
+
+
+
