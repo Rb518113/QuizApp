@@ -24,8 +24,8 @@ body{
 
 .grid #question{
 font-family: sans-serif;
-font-size: 30px;
-color:red;
+font-size: 50px;
+color:rgb(0, 255, 149);
 }
 
 .buttons{
